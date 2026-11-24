@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" role="img" aria-label="Three hills under a low sun">
+  <rect width="640" height="320" fill="#f6e7c8"/>
+  <circle cx="470" cy="120" r="48" fill="#e9843a"/>
+  <path d="M0 250 Q160 120 320 250 T640 250 V320 H0 Z" fill="#7fa37a"/>
+  <path d="M0 280 Q120 200 260 280 T520 270 T640 280 V320 H0 Z" fill="#4f7a57"/>
+  <path d="M0 305 Q200 250 400 305 T640 300 V320 H0 Z" fill="#2f5a40"/>
+</svg>
